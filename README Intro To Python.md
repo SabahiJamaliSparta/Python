@@ -79,7 +79,7 @@ The README itself is documentation. Run its Python code blocks in `.py` files. E
 name = "Sabahi"
 age = 25
 
-print(f"Hello, {name}!")
+print("Hello, {name}!")
 print(age)
 ```
 
@@ -107,8 +107,6 @@ age = 25
 if age >= 18:
     print("Adult")
 ```
-
-`print("\nQ1a\n")` prints a heading with a newline before and after it. `\n` is the newline escape sequence.
 
 ## 4. Data types
 
