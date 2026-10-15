@@ -25,8 +25,7 @@
 
 ## 1. Overview
 
-This document summarises the JSON data format, covering its definition, purpose, structure, supported data types and syntax rules. Definitions are aligned with the Python standard library documentation for the `json` module, supplemented by the formal specifications RFC 8259 and ECMA-404.
-
+This document summarises the JSON data format, covering its definition, purpose, structure, supported data types and syntax rules. Definitions are aligned with the Python standard library documentation for the `json` module.
 ---
 
 ## 2. Definition and Etymology
