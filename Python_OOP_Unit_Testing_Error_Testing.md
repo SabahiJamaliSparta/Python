@@ -1,8 +1,4 @@
-# Python Reference and Revision Guide
-
-**Object-oriented programming | Testing | File handling | CSV processing**
-
-This guide consolidates Python concepts in learning order. It provides definitions, syntax, concise explanations and reference pseudocode. Practice exercises are maintained separately.
+# Object-oriented programming | Testing | File handling | CSV processin
 
 ## Contents
 
