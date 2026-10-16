@@ -1,11 +1,4 @@
 # JSON (JavaScript Object Notation): Research Notes
-
-| | |
-|---|---|
-| **Topic** | JSON data interchange format |
-| **Date** | 14 October 2026 |
-| **Primary sources** | Python Software Foundation (2026) `json` module documentation; RFC 8259; ECMA-404 |
-
 ---
 
 ## Table of Contents
