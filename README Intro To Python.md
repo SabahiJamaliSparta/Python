@@ -1,8 +1,6 @@
 # Introduction to Python
 ### Foundations, control flow, functions and lambda exercises
 
-Learning notes for **Sabahi Jamali — Sparta Global**.
-
 This README brings together the Python concepts and exercises studied so far. Examples use simple Python 3 syntax, concise pseudocode comments and brief explanations. No external packages are required.
 
 ## Contents
